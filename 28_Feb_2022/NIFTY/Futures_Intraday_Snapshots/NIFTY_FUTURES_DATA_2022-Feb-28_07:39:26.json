@@ -1,0 +1,87 @@
+{
+    "data": [
+        {
+            "underlying": "NIFTY",
+            "identifier": "FUTIDXNIFTY31-03-2022XX0.00",
+            "instrumentType": "FUTIDX",
+            "instrument": "Index Futures",
+            "contract": "NIFTY 31-Mar-2022",
+            "expiryDate": "31-Mar-2022",
+            "optionType": "-",
+            "strikePrice": 0,
+            "lastPrice": 16735.9,
+            "change": 79.85,
+            "pChange": 0.48,
+            "volume": 10140450,
+            "totalTurnover": 167938426158.00003,
+            "value": 167938426158.00003,
+            "premiumTurnOver": 167938426158.00003,
+            "underlyingValue": 16717.6,
+            "openInterest": 224312,
+            "noOfTrades": 202468,
+            "meta": {
+                "data": [],
+                "msg": "No Data Found"
+            }
+        },
+        {
+            "underlying": "NIFTY",
+            "identifier": "FUTIDXNIFTY28-04-2022XX0.00",
+            "instrumentType": "FUTIDX",
+            "instrument": "Index Futures",
+            "contract": "NIFTY 28-Apr-2022",
+            "expiryDate": "28-Apr-2022",
+            "optionType": "-",
+            "strikePrice": 0,
+            "lastPrice": 16780.25,
+            "change": 79.85,
+            "pChange": 0.48,
+            "volume": 777900,
+            "totalTurnover": 12936041375.999998,
+            "value": 12936041375.999998,
+            "premiumTurnOver": 12936041375.999998,
+            "underlyingValue": 16717.6,
+            "openInterest": 30494,
+            "noOfTrades": 15534,
+            "meta": {
+                "data": [],
+                "msg": "No Data Found"
+            }
+        },
+        {
+            "underlying": "NIFTY",
+            "identifier": "FUTIDXNIFTY26-05-2022XX0.00",
+            "instrumentType": "FUTIDX",
+            "instrument": "Index Futures",
+            "contract": "NIFTY 26-May-2022",
+            "expiryDate": "26-May-2022",
+            "optionType": "-",
+            "strikePrice": 0,
+            "lastPrice": 16827.3,
+            "change": 76,
+            "pChange": 0.45,
+            "volume": 387900,
+            "totalTurnover": 6480878039.999999,
+            "value": 6480878039.999999,
+            "premiumTurnOver": 6480878039.999999,
+            "underlyingValue": 16717.6,
+            "openInterest": 14289,
+            "noOfTrades": 7746,
+            "meta": {
+                "data": [],
+                "msg": "No Data Found"
+            }
+        }
+    ],
+    "timestamp": "28-Feb-2022 13:07:54",
+    "marketStatus": {
+        "market": "FO",
+        "marketOpenOrClose": "Open",
+        "marketCurrentTradingDate": "Feb 28,2022",
+        "marketOpenTime": "0915",
+        "marketCloseTime": "1530",
+        "marketPreviousTradingDate": "Feb 25,2022",
+        "marketNextTradingDate": "Mar 02,2022",
+        "marketStatusMessage": "Market is Open"
+    }
+}
