@@ -1,0 +1,87 @@
+{
+    "data": [
+        {
+            "underlying": "NIFTY",
+            "identifier": "FUTIDXNIFTY28-04-2022XX0.00",
+            "instrumentType": "FUTIDX",
+            "instrument": "Index Futures",
+            "contract": "NIFTY 28-Apr-2022",
+            "expiryDate": "28-Apr-2022",
+            "optionType": "-",
+            "strikePrice": 0,
+            "lastPrice": 17032.45,
+            "change": -171.55,
+            "pChange": -1,
+            "volume": 5071850,
+            "totalTurnover": 86506487970,
+            "value": 86506487970,
+            "premiumTurnOver": 86506487970,
+            "underlyingValue": 17031.1,
+            "openInterest": 125973,
+            "noOfTrades": 101143,
+            "meta": {
+                "data": [],
+                "msg": "No Data Found"
+            }
+        },
+        {
+            "underlying": "NIFTY",
+            "identifier": "FUTIDXNIFTY26-05-2022XX0.00",
+            "instrumentType": "FUTIDX",
+            "instrument": "Index Futures",
+            "contract": "NIFTY 26-May-2022",
+            "expiryDate": "26-May-2022",
+            "optionType": "-",
+            "strikePrice": 0,
+            "lastPrice": 17055.55,
+            "change": -178.75,
+            "pChange": -1.04,
+            "volume": 3005450,
+            "totalTurnover": 51347301778.5,
+            "value": 51347301778.5,
+            "premiumTurnOver": 51347301778.5,
+            "underlyingValue": 17031.1,
+            "openInterest": 120170,
+            "noOfTrades": 60043,
+            "meta": {
+                "data": [],
+                "msg": "No Data Found"
+            }
+        },
+        {
+            "underlying": "NIFTY",
+            "identifier": "FUTIDXNIFTY30-06-2022XX0.00",
+            "instrumentType": "FUTIDX",
+            "instrument": "Index Futures",
+            "contract": "NIFTY 30-Jun-2022",
+            "expiryDate": "30-Jun-2022",
+            "optionType": "-",
+            "strikePrice": 0,
+            "lastPrice": 17092,
+            "change": -174.3,
+            "pChange": -1.01,
+            "volume": 177550,
+            "totalTurnover": 3039054105.5,
+            "value": 3039054105.5,
+            "premiumTurnOver": 3039054105.5,
+            "underlyingValue": 17031.1,
+            "openInterest": 30082,
+            "noOfTrades": 3551,
+            "meta": {
+                "data": [],
+                "msg": "No Data Found"
+            }
+        }
+    ],
+    "timestamp": "27-Apr-2022 12:34:38",
+    "marketStatus": {
+        "market": "FO",
+        "marketOpenOrClose": "Open",
+        "marketCurrentTradingDate": "Apr 27,2022",
+        "marketOpenTime": "0915",
+        "marketCloseTime": "1530",
+        "marketPreviousTradingDate": "Apr 26,2022",
+        "marketNextTradingDate": "Apr 28,2022",
+        "marketStatusMessage": "Market is Open"
+    }
+}
