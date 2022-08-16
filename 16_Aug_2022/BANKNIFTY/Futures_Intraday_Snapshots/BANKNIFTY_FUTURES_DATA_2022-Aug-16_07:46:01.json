@@ -1,0 +1,87 @@
+{
+    "data": [
+        {
+            "underlying": "BANKNIFTY",
+            "identifier": "FUTIDXBANKNIFTY25-08-2022XX0.00",
+            "instrumentType": "FUTIDX",
+            "instrument": "Index Futures",
+            "contract": "BANKNIFTY 25-Aug-2022",
+            "expiryDate": "25-Aug-2022",
+            "optionType": "-",
+            "strikePrice": 0,
+            "lastPrice": 39180.25,
+            "change": 102.55,
+            "pChange": 0.26,
+            "volume": 1755275,
+            "totalTurnover": 69046848961.75,
+            "value": 69046848961.75,
+            "premiumTurnOver": 69046848961.75,
+            "underlyingValue": 39170.5,
+            "openInterest": 113569,
+            "noOfTrades": 67957,
+            "meta": {
+                "data": [],
+                "msg": "No Data Found"
+            }
+        },
+        {
+            "underlying": "BANKNIFTY",
+            "identifier": "FUTIDXBANKNIFTY29-09-2022XX0.00",
+            "instrumentType": "FUTIDX",
+            "instrument": "Index Futures",
+            "contract": "BANKNIFTY 29-Sep-2022",
+            "expiryDate": "29-Sep-2022",
+            "optionType": "-",
+            "strikePrice": 0,
+            "lastPrice": 39332,
+            "change": 91.45,
+            "pChange": 0.23,
+            "volume": 167000,
+            "totalTurnover": 6598542410.000001,
+            "value": 6598542410.000001,
+            "premiumTurnOver": 6598542410.000001,
+            "underlyingValue": 39170.5,
+            "openInterest": 19380,
+            "noOfTrades": 6537,
+            "meta": {
+                "data": [],
+                "msg": "No Data Found"
+            }
+        },
+        {
+            "underlying": "BANKNIFTY",
+            "identifier": "FUTIDXBANKNIFTY27-10-2022XX0.00",
+            "instrumentType": "FUTIDX",
+            "instrument": "Index Futures",
+            "contract": "BANKNIFTY 27-Oct-2022",
+            "expiryDate": "27-Oct-2022",
+            "optionType": "-",
+            "strikePrice": 0,
+            "lastPrice": 39475.1,
+            "change": 104.3,
+            "pChange": 0.26,
+            "volume": 42975,
+            "totalTurnover": 1703848734,
+            "value": 1703848734,
+            "premiumTurnOver": 1703848734,
+            "underlyingValue": 39170.5,
+            "openInterest": 2819,
+            "noOfTrades": 1684,
+            "meta": {
+                "data": [],
+                "msg": "No Data Found"
+            }
+        }
+    ],
+    "timestamp": "16-Aug-2022 13:14:52",
+    "marketStatus": {
+        "market": "FO",
+        "marketOpenOrClose": "Open",
+        "marketCurrentTradingDate": "Aug 16,2022",
+        "marketOpenTime": "0915",
+        "marketCloseTime": "1530",
+        "marketPreviousTradingDate": "Aug 12,2022",
+        "marketNextTradingDate": "Aug 17,2022",
+        "marketStatusMessage": "Market is Open"
+    }
+}
